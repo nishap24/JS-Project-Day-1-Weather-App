@@ -11,7 +11,7 @@ Introducing my weather app built in JavaScript! With data sourced from OpenWeath
 
 ## Demo
 
-Live Demo:
+Live Demo:https://nishap24.github.io/JS-Project-Day-1-Weather-App/
 
     https://nishap24.github.io/JS-Project-Day-1-Weather-App/
 ## Getting Started
