@@ -41,7 +41,9 @@ To explore or modify the code, follow these steps:
 
 🔍 5.️ Search Functionality: Easily search and find weather data for specific cities.
 
+## Deployment Status:
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9e9417c1-c93b-47ce-b21b-0a90c705d1ad/deploy-status)](https://app.netlify.com/sites/kanasu-weather-site/deploys)
 
 
 ## Contributing
